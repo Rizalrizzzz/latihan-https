@@ -1,2 +1,2 @@
-Ini adalah revisi git terbaru
+Belajar git pull github 
 
